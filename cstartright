@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# conky -dc ./conky_lap_left.conf
+conky -dc ./conky_desk_right.conf
